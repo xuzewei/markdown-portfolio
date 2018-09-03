@@ -1,9 +1,3 @@
-1. list1
-  - list1-list1
-  - list1-list2
-  - list1-list3
-  - list1-list4
-  - list1-list5
-2. list2
-  - list2-list1
-3. list3
+* list1
+ * list1-list1
+ * list1-list2
